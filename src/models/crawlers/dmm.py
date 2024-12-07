@@ -621,6 +621,7 @@ def main(number, appoint_url='', log_info='', req_web='', language='jp', file_pa
 
 
 if __name__ == '__main__':
+    pass
     # yapf: disable
     # print(main('ipz-825'))    # 普通，有预告片
     # print(main('SIVR-160'))     # vr，有预告片
